@@ -1,6 +1,6 @@
 Welcome to my profile. Following are the links to the projects I have worked on and the skills I have accmulated over time.
 
-[skills_organizational](https://github.com/VivekChugh/profille/blob/main/skills_organizational.md) : Organizational Skills.
+[skills_organizational](https://github.com/VivekChugh/profille/blob/main/skills_organizational.md) : Organizational and Technical leadership Skills.
 
 [skills_programming](https://github.com/VivekChugh/profille/blob/main/skills_programming.md) : Efficient programming skills.
 
