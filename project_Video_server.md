@@ -1,6 +1,6 @@
 ### Project Overview: Design of Video Streaming Server
 
-As a software engineer, I designed and developed a **video streaming server** that uses **MPEG-DASH** and **HLS protocols** to stream video content. This project was developed in **C and C++** on an **embedded Linux platform** to ensure efficient and reliable delivery of video streams across different devices and networks.
+Designed and developed a **video streaming server** that uses **MPEG-DASH** and **HLS protocols** to stream video content. This project was developed in **C and C++** on an **embedded Linux platform** to ensure efficient and reliable delivery of video streams across different devices and networks.
 
 ---
 
