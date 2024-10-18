@@ -1,6 +1,6 @@
 ### Project Overview: Construction Zone Detection and Notification System
 
-As a software engineer, I designed and developed a **construction zone detection system** using the car's dash-cam feed, which analyzes the video in real time to identify construction zones. Once detected, the system sends the car’s current location to a central server, which then alerts nearby cars to avoid the route. The system was built in **C++** on an **embedded Linux platform** and utilized **OpenCV** for computer vision tasks.
+Designed and developed a **construction zone detection system** using the car's dash-cam feed, which analyzes the video in real time to identify construction zones. Once detected, the system sends the car’s current location to a central server, which then alerts nearby cars to avoid the route. The system was built in **C++** on an **embedded Linux platform** and utilized **OpenCV** for computer vision tasks.
 
 ---
 
