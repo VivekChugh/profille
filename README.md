@@ -25,5 +25,5 @@ Welcome to my profile. Following are the links to the projects I have worked on 
 
 [OTA_Bootloader](https://github.com/VivekChugh/profille/blob/main/project_OTA_BL.md) : OTA enabled bootloader, A bootloader that can be updated OTA.
 
-[ECU_communikcation_MQTT](https://github.com/VivekChugh/profille/blob/main/project_MQTT.md) : Inter-ECU communication system based on MQTT. 
+[ECU_communication_MQTT](https://github.com/VivekChugh/profille/blob/main/project_MQTT.md) : Inter-ECU communication system based on MQTT. 
 
