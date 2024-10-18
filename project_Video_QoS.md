@@ -1,6 +1,6 @@
 ### Project Overview: Video QoS benchmarking System
 
-As a software engineer, I developed a system for an IPTV Set-Top Box that monitors the performance of the video decoder in real-time. The goal was to evaluate the **user's perceived quality** of the video stream based on decoder performance metrics. This software was implemented in **C and C++** on an **embedded Linux platform**.
+A system for an IPTV Set-Top Box that monitors the performance of the video decoder in real-time. The goal was to evaluate the **user's perceived quality** of the video stream based on decoder performance metrics. This software was implemented in **C and C++** on an **embedded Linux platform**.
 
 ---
 
