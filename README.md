@@ -23,7 +23,7 @@ Welcome to my profile. Following are the links to the projects I have worked on 
   <details>
   <summary>Projects: Graphical User Interface (using Qt) </summary>
     
-    [Sersor_Output_Visualizer](https://github.com/VivekChugh/profille/blob/main/project_QT_visualizer.md) : Display output of different Car sensors like Lidar, Camera etc. on a unified window
+    [Sersor_Output_Visualizer](https://github.com/VivekChugh/profille/blob/main/project_QT_visualizer.md) : Display output of different Car sensors like Lidar, Camera etc. on a unified window.
 
     [Mapping](https://github.com/VivekChugh/profille/blob/main/project_QT_mapping.md) : Display newly detected landmarks on a map with respect to current location.
 
