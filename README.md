@@ -11,6 +11,13 @@ Welcome to my profile. Following are the links to the projects I have worked on 
 
 </details>
 
+
+[OTA_Bootloader](https://github.com/VivekChugh/profille/blob/main/project_OTA_BL.md) : OTA enabled bootloader, A bootloader that can be updated OTA.
+
+[ECU_communication_MQTT](https://github.com/VivekChugh/profille/blob/main/project_MQTT.md) : Inter-ECU communication system based on MQTT. 
+
+[Connectivity Manager]() : Software module responsible for setting up in-car networking infrastructure and in providing internet access to applications in secure and efficitent way. 
+
 <details>
 <summary>Projects: Graphical User Interface (using Qt) </summary>
 
@@ -22,8 +29,4 @@ Welcome to my profile. Following are the links to the projects I have worked on 
 
 </details>
 
-
-[OTA_Bootloader](https://github.com/VivekChugh/profille/blob/main/project_OTA_BL.md) : OTA enabled bootloader, A bootloader that can be updated OTA.
-
-[ECU_communication_MQTT](https://github.com/VivekChugh/profille/blob/main/project_MQTT.md) : Inter-ECU communication system based on MQTT. 
 
