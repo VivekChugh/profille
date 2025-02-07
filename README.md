@@ -20,7 +20,6 @@ Welcome to my profile. Following are the links to the projects I have worked on 
 
 [Connectivity Manager](https://github.com/VivekChugh/profille/blob/main/project_Networking_CM.md) : Software module responsible for setting up in-car networking infrastructure and in providing internet access to applications in secure and efficitent way. 
 
-  <details>
   <summary>Projects: Graphical User Interface (using Qt) </summary>
     
     [Sersor_Output_Visualizer](https://github.com/VivekChugh/profille/blob/main/project_QT_visualizer.md) : Display output of different Car sensors like Lidar, Camera etc. on a unified window.
@@ -28,7 +27,6 @@ Welcome to my profile. Following are the links to the projects I have worked on 
     [Mapping](https://github.com/VivekChugh/profille/blob/main/project_QT_mapping.md) : Display newly detected landmarks on a map with respect to current location.
 
     [Diagnostics_Dashboard](https://github.com/VivekChugh/profille/blob/main/project_QT_diaganotics.md) : Display variety of vehicle functions based on collected diagnostics data.
-  </details>
   
 </details>
 
