@@ -53,11 +53,11 @@
    - **C++**:
      - CM was developed using **C++** to leverage its performance and memory management features, crucial for embedded systems.
      - The object-oriented nature of C++ allowed for modular design, making it easier to extend CM to support new network features or security policies.
-   - **Embedded Linux**:
-     - CM runs on an **embedded Linux platform**, leveraging Linux’s built-in networking tools such as `ip`, `iptables`, and `ifconfig` to handle low-level network configurations.
-     - Embedded Linux provides a lightweight, customizable environment suitable for resource-constrained systems, ideal for CM’s requirements.
+   - **Embedded Linux and Android**:
+     - CM runs on an **embedded Linux and Android based ECUs**, leveraging Linux’s built-in networking tools such as `ip`, `iptables`, and `ifconfig` to handle low-level network configurations.
+     - Embedded Linux/AOSP provides a lightweight, customizable environment suitable for resource-constrained systems, ideal for CM’s requirements.
    - **Netlink Sockets**:
-     - **Netlink sockets** were used to communicate with the Linux kernel’s networking stack, allowing CM to modify IP rules, routes, and VLAN configurations programmatically.
+     - **Netlink sockets** were used to communicate with the Linux/AOSP kernel’s networking stack, allowing CM to modify IP rules, routes, and VLAN configurations programmatically.
    - **VLANs**:
      - **802.1Q VLAN tagging** was employed to isolate traffic and create virtual network segments on a shared physical network.
    - **iptables / nftables**:
@@ -77,7 +77,7 @@
    3. **Network Interface Abstraction**:
       - Developed an abstraction layer for handling multiple network interfaces (Ethernet, Wi-Fi, etc.), enabling the CM to manage network configurations independent of specific interface types.
    4. **Development**:
-      - Implemented the core functionality in **C++**, making use of Linux’s networking APIs (e.g., netlink) to set up routes, tables, and VLANs dynamically.
+      - Implemented the core functionality in **C++**, making use of AOSP/Linux’s networking APIs (e.g., netlink) to set up routes, tables, and VLANs dynamically.
       - Integrated **error handling** and **logging mechanisms** to ensure that any issues in network setup (e.g., interface down, IP conflict) were detected and reported promptly.
    5. **Security Integration**:
       - Worked with security teams to ensure that firewall rules were integrated into the CM configuration, allowing dynamic changes without compromising security.
