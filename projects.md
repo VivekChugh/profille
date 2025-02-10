@@ -1,6 +1,7 @@
 # Vivek Chugh
 
 Staff Engineer
+
 *vivekchugh.83@gmail.com  
 +1-226-220-0528  
 358 Chokecherry Cres, Waterloo, Ontario, Canada*
@@ -19,6 +20,7 @@ effective communication across various technical projects.
 **Staff Engineer SG-8** Sep 2018 - Present
 *Ford Motors \| Waterloo*
 
+Connectivity Manager              [Github-link](www.google.com)   [C++, AOSP, AIDL, Linux, IP-Networking ]
 - **Optimized network configuration performance** by reducing the time taken to set up IP rules, VLANs, and routing tables, improving initialization speed by [X]% (if measurable).  
 - **Enhanced modularity and maintainability** by refactoring the codebase, introducing better abstraction layers for handling multiple network interfaces, making it easier to extend and debug.  - - 
 - **Improved security compliance** by integrating dynamic firewall rule management using iptables/nftables, strengthening protection against unauthorized network access.  
