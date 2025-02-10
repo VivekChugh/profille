@@ -1,7 +1,6 @@
 # Vivek Chugh
 
 Staff Engineer
-
 *vivekchugh.83@gmail.com  
 +1-226-220-0528  
 358 Chokecherry Cres, Waterloo, Ontario, Canada*
