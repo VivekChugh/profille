@@ -2,9 +2,7 @@
 
 Staff Engineer
 
-*vivekchugh.83@gmail.com  
-+1-226-220-0528  
-358 Chokecherry Cres, Waterloo, Ontario, Canada*
+*vivekchugh.83@gmail.com / +1-226-220-0528 / 358 Chokecherry Cres, Waterloo, Ontario, Canada*
 
 Experienced system design and video professional with 18 years of
 diverse experience, including roles in Silicon Valley startups and
