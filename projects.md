@@ -17,34 +17,14 @@ effective communication across various technical projects.
 ## Work Experience
 
 **Staff Engineer SG-8** Sep 2018 - Present
-
 *Ford Motors \| Waterloo*
 
-- Connectivity Manager for connected Vehicle Stack AOSP, Android Native
-  C, Android FW Java-JNI
-
-- This ECU is meant to be heart of vehicle communication architecture.
-  It provides mechanism that enable any app on any ECU in vehicle
-  network to communicate with any other application.
-
-- In my initial days at the company, I leveraged my skill of clear and
-  articulate communication to cut though several unknowns to get
-  coherent body of knowledge.
-
-- Designed and implemented the critical module which sets up underlying
-  IP rules, IP routes, configure routing tables along with other
-  networking infrastructure.
-
-- Made entire networking system secure by implementing Intent management
-  system for apps. It provides apps a secure path to internet and cloud
-  services with help of using separate VLAN and traffic isolation.
-
-- Designed an Android Native service from ground up. It runs inside
-  Android FW providing connectivity to apps.
-
-- Wrote Unit tests using Gtest Framework along with implementing classes
-  and corresponding public APIs. diagnosed several core files to debug
-  and fix crashes in multithreaded environment.
+- **Optimized network configuration performance** by reducing the time taken to set up IP rules, VLANs, and routing tables, improving initialization speed by [X]% (if measurable).  
+- **Enhanced modularity and maintainability** by refactoring the codebase, introducing better abstraction layers for handling multiple network interfaces, making it easier to extend and debug.  - - 
+- **Improved security compliance** by integrating dynamic firewall rule management using iptables/nftables, strengthening protection against unauthorized network access.  
+- **Streamlined development processes** by mentoring junior engineers, improving code review practices, and introducing best practices for C++ and Linux networking development.  
+- **Strengthened fault tolerance and failover handling** by implementing automated network state monitoring and adaptive route reconfiguration in case of link failures.  
+- **Refined technical documentation and knowledge sharing**, ensuring clearer architecture diagrams, configuration guides, and troubleshooting steps for seamless handover and maintenance.  
 
 **Sr Engineer** Nov 2016 - Jul 2018
 
