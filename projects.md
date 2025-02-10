@@ -16,13 +16,21 @@ effective communication across various technical projects.
 **Staff Engineer SG-8** Sep 2018 - Present
 *Ford Motors \| Waterloo*
 
-Connectivity Manager  [C++, AOSP, AIDL, Linux, IP-Networking ] [Github-link](www.google.com) 
+Connectivity Manager  [C, C++, AOSP, AIDL, Embedded Linux, IP-Networking ] [Github-link](www.google.com) 
 - **Optimized network configuration performance** by reducing the time taken to set up IP rules, VLANs, and routing tables, improving initialization speed by [X]% (if measurable).  
 - **Enhanced modularity and maintainability** by refactoring the codebase, introducing better abstraction layers for handling multiple network interfaces, making it easier to extend and debug. 
 - **Improved security compliance** by integrating dynamic firewall rule management using iptables/nftables, strengthening protection against unauthorized network access.  
 - **Streamlined development processes** by mentoring junior engineers, improving code review practices, and introducing best practices for C++ and Linux networking development.  
 - **Strengthened fault tolerance and failover handling** by implementing automated network state monitoring and adaptive route reconfiguration in case of link failures.  
 - **Refined technical documentation and knowledge sharing**, ensuring clearer architecture diagrams, configuration guides, and troubleshooting steps for seamless handover and maintenance.  
+
+MQTT-Based ECU Communication System [C, C++, MQTT, AOSP, Embedded Linux] [Github-Link]()
+- **Optimized MQTT Broker Performance**: Enhanced the Mosquitto MQTT broker configuration on the Gateway ECU, resulting in improved message throughput and reduced latency in inter-ECU communications.
+- **Developed Robust Client Libraries**: Created efficient and lightweight MQTT client libraries for various ECUs, facilitating seamless publish/subscribe interactions and ensuring reliable message delivery across the system.
+- **Implemented Advanced Topic Management**: Designed a structured topic hierarchy and implemented access control mechanisms, ensuring secure and organized message routing between applications on different ECUs.
+- **Enhanced System Scalability**: Refined the system architecture to support the addition of new ECUs and applications without significant reconfiguration, promoting scalability and ease of integration.
+- **Improved Fault Tolerance**: Integrated mechanisms for detecting and handling communication failures, ensuring system resilience and maintaining reliable operation under adverse conditions
+
 
 **Sr Engineer** Nov 2016 - Jul 2018
 
