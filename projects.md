@@ -16,7 +16,7 @@ effective communication across various technical projects.
 **Staff Engineer SG-8** Sep 2018 - Present
 *Ford Motors \| Waterloo*
 
-Connectivity Manager  [C, C++, AOSP, AIDL, Embedded Linux, IP-Networking ] [Github-link](www.google.com) 
+Connectivity Manager  [C, C++, AOSP, AIDL, Embedded Linux, IP-Networking ] [Github-link](https://github.com/VivekChugh/profille/blob/main/project_Networking_CM.md)
 - **Optimized network configuration performance** by reducing the time taken to set up IP rules, VLANs, and routing tables, improving initialization speed by [X]% (if measurable).  
 - **Enhanced modularity and maintainability** by refactoring the codebase, introducing better abstraction layers for handling multiple network interfaces, making it easier to extend and debug. 
 - **Improved security compliance** by integrating dynamic firewall rule management using iptables/nftables, strengthening protection against unauthorized network access.  
@@ -24,7 +24,7 @@ Connectivity Manager  [C, C++, AOSP, AIDL, Embedded Linux, IP-Networking ] [Gith
 - **Strengthened fault tolerance and failover handling** by implementing automated network state monitoring and adaptive route reconfiguration in case of link failures.  
 - **Refined technical documentation and knowledge sharing**, ensuring clearer architecture diagrams, configuration guides, and troubleshooting steps for seamless handover and maintenance.  
 
-MQTT-Based ECU Communication System [C, C++, MQTT, AOSP, Embedded Linux] [Github-Link]()
+MQTT-Based ECU Communication System [C, C++, MQTT, AOSP, Embedded Linux] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_MQTT.md)
 - **Optimized MQTT Broker Performance**: Enhanced the Mosquitto MQTT broker configuration on the Gateway ECU, resulting in improved message throughput and reduced latency in inter-ECU communications.
 - **Developed Robust Client Libraries**: Created efficient and lightweight MQTT client libraries for various ECUs, facilitating seamless publish/subscribe interactions and ensuring reliable message delivery across the system.
 - **Implemented Advanced Topic Management**: Designed a structured topic hierarchy and implemented access control mechanisms, ensuring secure and organized message routing between applications on different ECUs.
