@@ -1,6 +1,6 @@
 # Vivek Chugh
 
-Sr Engineer L-8(Staff Engineer) / *vivekchugh.83@gmail.com / +1-226-220-0528 / 358 Chokecherry Cres, Waterloo, Ontario, Canada*
+**Sr Engineer** | *vivekchugh.83@gmail.com | +1-226-220-0528 | 358 Chokecherry Cres, Waterloo, Ontario, Canada
 
 Experienced system design and video professional with 18 years of
 diverse experience, including roles in Silicon Valley startups and
@@ -13,8 +13,7 @@ effective communication across various technical projects.
 
 ## Work Experience
 
-**Staff Engineer SG-8** Sep 2018 - Present
-*Ford Motors \| Waterloo*
+**Sr Engineer L-8(Staff Engineer)** | Sep 2018 - Present | Ford Motors, Waterloo*
 
 Connectivity Manager  [C, C++, AOSP, AIDL, Embedded Linux, IP-Networking ] [Github-link](https://github.com/VivekChugh/profille/blob/main/project_Networking_CM.md)
 - **Optimized network configuration performance** by reducing the time taken to set up IP rules, VLANs, and routing tables, improving initialization speed by [X]% (if measurable).  
@@ -32,9 +31,7 @@ MQTT-Based ECU Communication System [C, C++, MQTT, AOSP, Embedded Linux] [Github
 - **Improved Fault Tolerance**: Integrated mechanisms for detecting and handling communication failures, ensuring system resilience and maintaining reliable operation under adverse conditions
 
 
-**Sr Engineer** Nov 2016 - Jul 2018
-
-*Faraday Future \| Los Angeles*
+**Sr Engineer** | Nov 2016 - Jul 2018 | Faraday Future, Los Angeles 
 
 - Sensor Visualization and streaming Framework (Linux, C++, Embedded
   Linux, SRT)
