@@ -13,7 +13,7 @@ effective communication across various technical projects.
 
 ## Work Experience
 
-**Sr Engineer L-8(Staff Engineer)** | Sep 2018 - Present | Ford Motors, Waterloo*
+**Sr Engineer L-8(Staff Engineer)** | Sep 2018 - Present | Ford Motors, Waterloo
 
 Connectivity Manager  [C, C++, AOSP, AIDL, Embedded Linux, IP-Networking ] [Github-link](https://github.com/VivekChugh/profille/blob/main/project_Networking_CM.md)
 - **Optimized network configuration performance** by reducing the time taken to set up IP rules, VLANs, and routing tables, improving initialization speed by [X]% (if measurable).  
