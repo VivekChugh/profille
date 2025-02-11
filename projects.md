@@ -33,32 +33,15 @@ MQTT-Based ECU Communication System [C, C++, MQTT, AOSP, Embedded Linux] [Github
 
 **Sr Engineer** | Nov 2016 - Jul 2018 | Faraday Future, Los Angeles 
 
-- Sensor Visualization and streaming Framework (Linux, C++, Embedded
-  Linux, SRT)
+Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_OTA_BL.md)
+- **Enhanced Security Protocols**: Implemented advanced cryptographic checks, including SHA-256 hash verification and digital signature validation, to ensure the integrity and authenticity of firmware updates, significantly reducing the risk of unauthorized code execution.
+- **Developed Fail-Safe Rollback Mechanism**: Designed and integrated a robust rollback feature that automatically reverts to the previous firmware version in case of update failures or corruption, preventing device bricking and ensuring continuous operation.
+- **Optimized Partition Management**: Improved the bootloader's partition management system to efficiently handle multiple firmware slots, facilitating seamless transitions between current and updated firmware versions during OTA updates.
+- **Reduced Bootloader Footprint**: Refactored low-level C code to minimize the bootloader's memory usage, achieving a more compact and efficient implementation suitable for resource-constrained embedded systems.
+- **Streamlined OTA Update Process**: Enhanced the OTA update mechanism to support more reliable and faster firmware downloads over various wireless communication interfaces, improving the user experience and reducing downtime during updates.
+- **Improved Documentation and Developer Support**: Created comprehensive documentation detailing the bootloader's architecture, update procedures, and troubleshooting guidelines, aiding future development and facilitating easier maintenance.
 
-- Designed and developed framework to stream sensor frames (Lidar Point
-  cloud) on a 3D rendering in real time.
 
-- Framework had to be versatile enough to stream different sensors data
-  (with different formats) .
-
-- Supports Lidar, Camera, Occupancy grid frames to be visualized on
-  browser and stream over SRT protocol. Easily extendible to frames
-  produced by other sensors.
-
-- Although started as debugging tool for perception algorithms, quickly
-  extended to include use cases where user should be able to visualize
-  sensor data on dashboard screen. OTA enabled Bootloader for Autonomous
-  Driving Module C, TCP/IP, Embedded sys, DoIP, UDS
-
-- Bootloader initializes hardware then it downloads application as DoIP
-  payload and jumps to application.
-
-- Managed relationship with supply partners on delivery of hardware/chip
-  specific drivers and submodules.
-
-- Developed Doip-UDS server application (as part of bootloader) to
-  download and flash payload to ECU.
 
 **Sr Tech Developer - Tech Lead** Jun 2015 - Oct 2016
 
