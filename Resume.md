@@ -86,7 +86,7 @@ Vehicle Diagnostics Application [] [Github-Link](https://github.com/VivekChugh/p
 - **Robust Data Collection from OBD-II Systems**: Strengthened the application's ability to collect and interpret data from the vehicle's onboard diagnostics system (OBD-II), ensuring accurate and reliable diagnostics information.
 
 **Sr Software Engineer** | Aug 2005 - Apr 2014 | Samsung Labs, New Delhi
-
+ - Contributed to various software developement endeavours.
 
 ## Core Skills
 
