@@ -77,7 +77,7 @@ Construction Zone Detection and Notification System [] [Github-Link](https://git
 - **User-Friendly Alert System**: Improved the central server's alert dissemination mechanism to provide timely and clear notifications to nearby vehicles, aiding in effective route planning and congestion avoidance.
 - **Comprehensive Testing and Validation**: Conducted extensive field testing under various driving conditions to validate system performance, leading to iterative improvements and increased reliability in real-world scenarios.
 
-Vehicle Diagnostics Application [] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_QT_diagnotics.md)
+Vehicle Diagnostics Application [] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_QT_diaganotics.md)
 - **Enhanced Real-Time Data Processing**: Optimized the application's data handling to ensure seamless real-time updates of vehicle diagnostics, providing users with up-to-the-minute information on vehicle health.
 - **Advanced Data Visualization**: Implemented intuitive charts, graphs, and gauges to represent complex diagnostics data, enabling users to quickly grasp vehicle performance metrics and identify potential issues.
 - **Comprehensive Subsystem Monitoring**: Expanded the application's capabilities to monitor various vehicle subsystems, including engine, transmission, battery, and fuel system, offering users a holistic view of vehicle status.
