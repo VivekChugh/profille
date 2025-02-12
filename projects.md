@@ -90,10 +90,10 @@ Vehicle Diagnostics Application [] [Github-Link](https://github.com/VivekChugh/p
 
 ## Core Skills
 
-Embedded Systems, Computer Vision, Video streaming., Automotive
-Protocols : CAN, OBD2, UDS, LIN, CAN-FD, Network Protocols : RTP, RTSP,
-RTMP, HLS, MPEG-DASH, SRT., Video Codecs and Containers : H.264, MP4,
-MPEG-2 (TS and PS), HEVC.
+- Domain Knowledge: Embedded Systems, Computer Vision, Video streaming, 
+- Automotive Protocols : CAN, OBD2, UDS, LIN, CAN-FD 
+- Network Protocols : RTP, RTSP, RTMP, HLS, MPEG-DASH, SRT 
+- Video Codecs and Containers : H.264, MP4, MPEG-2 (TS and PS), HEVC.
 
 ## Education
 
