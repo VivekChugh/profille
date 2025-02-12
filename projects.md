@@ -69,6 +69,21 @@ Video Streaming Server [] [Githib-Link]()
 
 **Sr Engineer, Grade 8** | May 2014 - May 2015 | Continental Automotives, Singapore
 
+Construction Zone Detection and Notification System [] [Github-Link]()
+- **Enhanced Real-Time Detection Accuracy**: Optimized the OpenCV-based computer vision algorithms to improve the system's ability to accurately identify construction zones from dash-cam video feeds, reducing false positives and negatives.
+- **Improved System Performance**: Refined the C++ codebase to enhance processing efficiency on the embedded Linux platform, resulting in faster detection times and reduced computational load.
+- **Robust GPS Integration**: Strengthened the integration with GPS modules to ensure precise location tracking upon construction zone detection, facilitating accurate reporting to the central server.
+- **Reliable Communication Protocols**: Developed and implemented robust communication protocols to ensure timely and reliable transmission of detected construction zone locations to the central server, enhancing the alert system's effectiveness.
+- **User-Friendly Alert System**: Improved the central server's alert dissemination mechanism to provide timely and clear notifications to nearby vehicles, aiding in effective route planning and congestion avoidance.
+- **Comprehensive Testing and Validation**: Conducted extensive field testing under various driving conditions to validate system performance, leading to iterative improvements and increased reliability in real-world scenarios.
+
+Vehicle Diagnostics Application [] [Github-Link]()
+- **Enhanced Real-Time Data Processing**: Optimized the application's data handling to ensure seamless real-time updates of vehicle diagnostics, providing users with up-to-the-minute information on vehicle health.
+- **Advanced Data Visualization**: Implemented intuitive charts, graphs, and gauges to represent complex diagnostics data, enabling users to quickly grasp vehicle performance metrics and identify potential issues.
+- **Comprehensive Subsystem Monitoring**: Expanded the application's capabilities to monitor various vehicle subsystems, including engine, transmission, battery, and fuel system, offering users a holistic view of vehicle status.
+- **Diagnostic Trouble Code (DTC) Integration**: Integrated the display of error codes with potential troubleshooting solutions, assisting users in understanding and addressing vehicle issues promptly.
+- **User-Friendly Interactive Interface**: Designed an interactive dashboard that allows users to delve into detailed subsystem data, view historical trends, and receive critical alerts, enhancing the overall user experience.
+- **Robust Data Collection from OBD-II Systems**: Strengthened the application's ability to collect and interpret data from the vehicle's onboard diagnostics system (OBD-II), ensuring accurate and reliable diagnostics information.
 
 **Sr Software Engineer** | Aug 2005 - Apr 2014 | Samsung Labs, New Delhi
 
