@@ -35,10 +35,17 @@ Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](htt
 - **Improved Documentation and Developer Support**: Created comprehensive documentation detailing the bootloader's architecture, update procedures, and troubleshooting guidelines, aiding future development and facilitating easier maintenance.
 
 
-
 **Sr Tech Developer (Tech Lead)** | Jun 2015 - Oct 2016 | *Verizon, Dallas
 
+Video QoS Benchmarking System [] [Github-Link]()
+- **Real-Time Decoder Performance Monitoring**: Developed a system to continuously probe the video decoder every 10 seconds, capturing essential metrics such as the number of video frames processed and decode errors encountered, enabling immediate detection of performance issues. citeturn0search0
+- **Quality of Experience (QoE) Assessment**: Implemented algorithms to calculate the user's perceived quality of the video stream based on decoder performance metrics, providing valuable insights into the end-user experience.
+- **Efficient Data Collection and Analysis**: Designed the system to gather and analyze performance data with minimal overhead, ensuring that the monitoring process does not interfere with the normal operation of the Set-Top Box.
+- **Integration with Embedded Linux Platform**: Implemented the software in C and C++ on an embedded Linux platform, leveraging the platform's capabilities to achieve efficient and reliable performance monitoring.
+- **Proactive Error Detection and Reporting**: Established mechanisms to promptly identify and report decode errors, such as dropped or corrupted frames, facilitating timely interventions to maintain optimal video quality.
+- **User-Centric Performance Metrics**: Focused on metrics that directly impact the user's viewing experience, ensuring that the system provides relevant and actionable information for maintaining high-quality video playback.
 
+  
 
 
 **Sr Engineer, Grade 8** | May 2014 - May 2015 | Continental Automotives, Singapore
