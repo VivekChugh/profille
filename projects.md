@@ -43,83 +43,14 @@ Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](htt
 
 
 
-**Sr Tech Developer - Tech Lead** Jun 2015 - Oct 2016
+**Sr Tech Developer (Tech Lead)** | Jun 2015 - Oct 2016 | *Verizon, Dallas
 
-*Verizon \| Dallas*
 
-- Video QoS benchmarking system for 4k content (C++11 , Embedded Linux,
-  MPEG DASH, HLS)
+**Sr Engineer, Grade 8** | May 2014 - May 2015 | Continental Automotives, Singapore
 
-- System extracts different parameters from streaming video frames.
-  Then, use them to benchmark video QoS.
 
-- Proposed a much more effective benchmarking system when I found that
-  some other available parameters are more reliable indicators of QoS
-  then the ones which are being used currently.
+**Sr Software Engineer** | Aug 2005 - Apr 2014 | Samsung Labs, New Delhi
 
-- Designed the system around above-mentioned proposal which reduced
-  false positives and false negatives significantly around 70% combined
-  reduction .
-
-- Led a team implementing the feature. Conducted Code reviews to uphold
-  the code quality.
-
-- Design of Video Streaming server (C++11 , Linux, MPEG DASH, HLS, RTMP)
-
-- Server provide full-fledged HTML5 interface to client for content
-  browsing and selection.
-
-- Created unified architecture for streaming of on demand media and IPTV
-  channel feeds.
-
-- Implemented core module Video Streaming Server that uses HLS/MPEG-DASH
-  protocol for audio-video data transport.
-
-- Received accolades from project\'s stake holders for taking initiative
-  and contributing valuably not only to my own module but also to other
-  modules that were interacting with it.
-
-**Sr Engineer, Grade 8 - Tech Lead** May 2014 - May 2015
-
-*Continental Automotives \| Singapore*
-
-Played key role in development of telematics products for French and
-German OEMs. Initially sourced from comtel solutions on one-year
-contract, was offered permanent role in .
-
-- Computer vision FW for Construction zone Notification C, Qt/QML,
-  Computer Vision, Embedded sys
-
-- Developed recognizer of construction signs using dashcam video feed.
-
-- Designed communication module which sends message to server to update
-  traffic data with newly found Construction zone
-
-**Sr Software Engineer** Aug 2005 - Apr 2014
-
-*Samsung Labs \| New Delhi*
-
-- IPTV app for SmartTV C, RTSP, RTP, H.264, JS, Embedded Linux, RTMP
-
-- Won the best project award for making IPTV App for Samsung DTV
-  platform.
-
-- Increased the server performance 60% by properly implementing
-  multithreading.
-
-- Designed the Probe module for which essentially included probing
-  different SNMP properties of IPTV remotely.
-
-- In-Hotel Video Streaming server C, Linux, RTSP, RTP, MPEG2-TS
-
-- Implemented and coded Video Streaming Server framework that Adheres to
-  RTSP protocol for client interaction and easily extendable to other
-  protocols of same category.
-
-- Coded for RTP protocol to support to MPEG2-TS stream data over Linux
-  UDP sockets.
-
-- Implemented fault tolerance feature for slave nodes in cluster.
 
 ## Core Skills
 
