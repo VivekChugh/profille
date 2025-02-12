@@ -23,7 +23,6 @@ MQTT-Based ECU Communication System [C, C++, MQTT, AOSP, Embedded Linux] [Github
 - **Enhanced System Scalability**: Refined the system architecture to support the addition of new ECUs and applications without significant reconfiguration, promoting scalability and ease of integration.
 - **Improved Fault Tolerance**: Integrated mechanisms for detecting and handling communication failures, ensuring system resilience and maintaining reliable operation under adverse conditions
 
-
 **Sr Engineer** | Nov 2016 - Jul 2018 | Faraday Future, Los Angeles 
 
 Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_OTA_BL.md)
@@ -33,7 +32,6 @@ Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](htt
 - **Reduced Bootloader Footprint**: Refactored low-level C code to minimize the bootloader's memory usage, achieving a more compact and efficient implementation suitable for resource-constrained embedded systems.
 - **Streamlined OTA Update Process**: Enhanced the OTA update mechanism to support more reliable and faster firmware downloads over various wireless communication interfaces, improving the user experience and reducing downtime during updates.
 - **Improved Documentation and Developer Support**: Created comprehensive documentation detailing the bootloader's architecture, update procedures, and troubleshooting guidelines, aiding future development and facilitating easier maintenance.
-
 
 **Sr Tech Developer (Tech Lead)** | Jun 2015 - Oct 2016 | *Verizon, Dallas
 
@@ -52,7 +50,6 @@ Video Streaming Server [] [Githib-Link]()
 - **Embedded Linux Platform Optimization**: Developed the server using C and C++ on an embedded Linux platform, ensuring efficient resource utilization and reliable performance across various devices and network environments. 
 - **Enhanced Client Compatibility**: Ensured that the server's streaming capabilities are compatible with a wide range of client devices and media players by adhering to industry-standard streaming protocols and formats. 
 - **Robust Error Handling and Recovery**: Implemented comprehensive error detection and recovery mechanisms to handle network disruptions and other issues gracefully, minimizing their impact on the user experience. 
-
 
 **Sr Engineer, Grade 8** | May 2014 - May 2015 | Continental Automotives, Singapore
 
