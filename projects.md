@@ -23,7 +23,7 @@ MQTT-Based ECU Communication System [C, C++, MQTT, AOSP, Embedded Linux] [Github
 - **Enhanced System Scalability**: Refined the system architecture to support the addition of new ECUs and applications without significant reconfiguration, promoting scalability and ease of integration.
 - **Improved Fault Tolerance**: Integrated mechanisms for detecting and handling communication failures, ensuring system resilience and maintaining reliable operation under adverse conditions
 
-Autonomous Vehicle Mapping Application [ADAS, Localization, C++, QT] [Github-Link]()
+Autonomous Vehicle Mapping Application [ADAS, Localization, C++, QT] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_QT_mapping.md)
 - **Real-Time 3D Environment Reconstruction**: Developed and optimized algorithms to process sensor inputs from LiDAR, cameras, and GPS, enabling the application to construct accurate 3D models of the vehicle's surroundings in real-time.
 - **Advanced Landmark Detection and Extraction**: Implemented sophisticated techniques to identify and extract significant landmarks such as buildings, road signs, and trees from sensor data, enhancing the application's environmental awareness.
 - **Dynamic Map Updating**: Designed a system to compare detected landmarks with existing databases, allowing the application to dynamically update maps with new or altered landmarks, ensuring up-to-date navigation information.
@@ -41,7 +41,7 @@ Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](htt
 - **Streamlined OTA Update Process**: Enhanced the OTA update mechanism to support more reliable and faster firmware downloads over various wireless communication interfaces, improving the user experience and reducing downtime during updates.
 - **Improved Documentation and Developer Support**: Created comprehensive documentation detailing the bootloader's architecture, update procedures, and troubleshooting guidelines, aiding future development and facilitating easier maintenance.
 
-Vehicle Sensor Data Visualizer for ADAS Framwork [C++, Qt Framework, ADAS, Linux, Embedded Linux] [Github-Link]()  
+Vehicle Sensor Data Visualizer for ADAS Framwork [C++, Qt Framework, ADAS, Linux, Embedded Linux] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_QT_visualizer.md)  
 - **Real-Time Multi-Sensor Data Integration**: Developed a robust system to simultaneously process and display data from various vehicle sensors, including LiDAR, cameras, and ultrasonic sensors, ensuring synchronized and accurate real-time visualization.
 - **Dynamic View Management**: Implemented a flexible interface allowing users to seamlessly switch between different sensor data views within a single window, enhancing user experience and situational awareness.
 - **Optimized Rendering Performance**: Enhanced the rendering pipeline to efficiently handle high-frequency data streams, resulting in smooth visualization of video frames, point clouds, and distance readings without latency.
