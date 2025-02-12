@@ -2,14 +2,7 @@
 
 **Sr Engineer** | *vivekchugh.83@gmail.com | +1-226-220-0528 | 358 Chokecherry Cres, Waterloo, Ontario, Canada
 
-Experienced system design and video professional with 18 years of
-diverse experience, including roles in Silicon Valley startups and
-Samsung. Proficient in problem-solving using data structures and
-algorithms, with expertise in Linux system programming and TCP-UDP/IP
-network stack internals. Demonstrated skills in developing
-fault-tolerant distributed systems within multithreading environments.
-Recognized for initiative, results-oriented approach, teamwork, and
-effective communication across various technical projects.
+Experienced system design and video professional with 18 years of diverse experience, including roles in Silicon Valley startups and Samsung. Proficient in problem-solving using data structures and algorithms, with expertise in Linux system programming and TCP-UDP/IP network stack internals. Demonstrated skills in developing fault-tolerant distributed systems within multithreading environments. Recognized for initiative, results-oriented approach, teamwork, and effective communication across various technical projects.
 
 ## Work Experience
 
@@ -44,6 +37,8 @@ Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](htt
 
 
 **Sr Tech Developer (Tech Lead)** | Jun 2015 - Oct 2016 | *Verizon, Dallas
+
+
 
 
 **Sr Engineer, Grade 8** | May 2014 - May 2015 | Continental Automotives, Singapore
