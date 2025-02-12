@@ -96,19 +96,5 @@ Vehicle Diagnostics Application [] [Github-Link](https://github.com/VivekChugh/p
 - Video Codecs and Containers : H.264, MP4, MPEG-2 (TS and PS), HEVC.
 
 ## Education
-
-Feb 2006 - Aug 2006
-
-**Post Graduate Diploma** \|
-
-GPA: 97.5
-
-**Training School** Feb 2006 - Aug 2006
-
-\| Advanced Computer
-
-**Punjab Technical University** Aug 2001 - May 2005
-
-**Bachelor of Technology** \| Electronics and Communication
-
-GPA: 66
+ - **Post Graduate Diploma** | Advanced Computing Training School | Feb 2006 - Aug 2006 | 97.5 
+ - **Bachelor of Technology (Electronics and Communication Tech)** | Punjab Technical University | Aug 2001 - May 2005 | 66
