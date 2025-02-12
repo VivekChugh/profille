@@ -23,6 +23,14 @@ MQTT-Based ECU Communication System [C, C++, MQTT, AOSP, Embedded Linux] [Github
 - **Enhanced System Scalability**: Refined the system architecture to support the addition of new ECUs and applications without significant reconfiguration, promoting scalability and ease of integration.
 - **Improved Fault Tolerance**: Integrated mechanisms for detecting and handling communication failures, ensuring system resilience and maintaining reliable operation under adverse conditions
 
+Autonomous Vehicle Mapping Application [ADAS, Localization, C++, QT] [Github-Link]()
+- **Real-Time 3D Environment Reconstruction**: Developed and optimized algorithms to process sensor inputs from LiDAR, cameras, and GPS, enabling the application to construct accurate 3D models of the vehicle's surroundings in real-time.
+- **Advanced Landmark Detection and Extraction**: Implemented sophisticated techniques to identify and extract significant landmarks such as buildings, road signs, and trees from sensor data, enhancing the application's environmental awareness.
+- **Dynamic Map Updating**: Designed a system to compare detected landmarks with existing databases, allowing the application to dynamically update maps with new or altered landmarks, ensuring up-to-date navigation information.
+- **Intuitive User Interface Design**: Created a user-friendly interface using Qt that visually represents the reconstructed environment and landmark data, providing users with clear and actionable insights into the vehicle's surroundings.
+- **Optimized Sensor Data Integration**: Streamlined the integration of various sensor inputs to ensure synchronized and efficient data processing, improving the overall performance and responsiveness of the application.
+- **Robust Testing and Validation**: Conducted extensive testing under diverse environmental conditions to validate the accuracy and reliability of the mapping and landmark detection features, leading to iterative enhancements and increased system robustness.
+
 **Sr Engineer** | Nov 2016 - Jul 2018 | Faraday Future, Los Angeles 
 
 Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_OTA_BL.md)
