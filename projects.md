@@ -45,7 +45,13 @@ Video QoS Benchmarking System [] [Github-Link]()
 - **Proactive Error Detection and Reporting**: Established mechanisms to promptly identify and report decode errors, such as dropped or corrupted frames, facilitating timely interventions to maintain optimal video quality.
 - **User-Centric Performance Metrics**: Focused on metrics that directly impact the user's viewing experience, ensuring that the system provides relevant and actionable information for maintaining high-quality video playback.
 
-  
+Video Streaming Server [] [Githib-Link]()  
+- **Implementation of Adaptive Bitrate Streaming**: Developed support for MPEG-DASH and HLS protocols, enabling the server to provide video streams in multiple quality levels. This allows clients to dynamically switch between streams based on their current bandwidth, ensuring a smooth viewing experience. 
+- **Efficient Content Segmentation**: Engineered the server to segment video content into smaller chunks, typically ranging from 2 to 10 seconds. This approach facilitates progressive fetching and buffering by clients, reducing latency and improving playback performance. 
+- **Dynamic Bitrate Adaptation**: Implemented mechanisms that allow the server to adjust streaming quality in real-time, responding to fluctuations in network conditions to maintain optimal video playback without interruptions. 
+- **Embedded Linux Platform Optimization**: Developed the server using C and C++ on an embedded Linux platform, ensuring efficient resource utilization and reliable performance across various devices and network environments. 
+- **Enhanced Client Compatibility**: Ensured that the server's streaming capabilities are compatible with a wide range of client devices and media players by adhering to industry-standard streaming protocols and formats. 
+- **Robust Error Handling and Recovery**: Implemented comprehensive error detection and recovery mechanisms to handle network disruptions and other issues gracefully, minimizing their impact on the user experience. 
 
 
 **Sr Engineer, Grade 8** | May 2014 - May 2015 | Continental Automotives, Singapore
