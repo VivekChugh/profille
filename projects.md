@@ -51,7 +51,7 @@ Vehicle Sensor Data Visualizer for ADAS Framwork [C++, Qt Framework, ADAS, Linux
 
 **Sr Tech Developer (Tech Lead)** | Jun 2015 - Oct 2016 | *Verizon, Dallas
 
-Video QoS Benchmarking System [] [Github-Link]()
+Video QoS Benchmarking System [] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_Video_QoS.md)
 - **Real-Time Decoder Performance Monitoring**: Developed a system to continuously probe the video decoder every 10 seconds, capturing essential metrics such as the number of video frames processed and decode errors encountered, enabling immediate detection of performance issues. citeturn0search0
 - **Quality of Experience (QoE) Assessment**: Implemented algorithms to calculate the user's perceived quality of the video stream based on decoder performance metrics, providing valuable insights into the end-user experience.
 - **Efficient Data Collection and Analysis**: Designed the system to gather and analyze performance data with minimal overhead, ensuring that the monitoring process does not interfere with the normal operation of the Set-Top Box.
@@ -59,7 +59,7 @@ Video QoS Benchmarking System [] [Github-Link]()
 - **Proactive Error Detection and Reporting**: Established mechanisms to promptly identify and report decode errors, such as dropped or corrupted frames, facilitating timely interventions to maintain optimal video quality.
 - **User-Centric Performance Metrics**: Focused on metrics that directly impact the user's viewing experience, ensuring that the system provides relevant and actionable information for maintaining high-quality video playback.
 
-Video Streaming Server [] [Githib-Link]()  
+Video Streaming Server [] [Githib-Link](https://github.com/VivekChugh/profille/blob/main/project_Video_server.md)  
 - **Implementation of Adaptive Bitrate Streaming**: Developed support for MPEG-DASH and HLS protocols, enabling the server to provide video streams in multiple quality levels. This allows clients to dynamically switch between streams based on their current bandwidth, ensuring a smooth viewing experience. 
 - **Efficient Content Segmentation**: Engineered the server to segment video content into smaller chunks, typically ranging from 2 to 10 seconds. This approach facilitates progressive fetching and buffering by clients, reducing latency and improving playback performance. 
 - **Dynamic Bitrate Adaptation**: Implemented mechanisms that allow the server to adjust streaming quality in real-time, responding to fluctuations in network conditions to maintain optimal video playback without interruptions. 
@@ -69,7 +69,7 @@ Video Streaming Server [] [Githib-Link]()
 
 **Sr Engineer, Grade 8** | May 2014 - May 2015 | Continental Automotives, Singapore
 
-Construction Zone Detection and Notification System [] [Github-Link]()
+Construction Zone Detection and Notification System [] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_Construction_Alert.md)
 - **Enhanced Real-Time Detection Accuracy**: Optimized the OpenCV-based computer vision algorithms to improve the system's ability to accurately identify construction zones from dash-cam video feeds, reducing false positives and negatives.
 - **Improved System Performance**: Refined the C++ codebase to enhance processing efficiency on the embedded Linux platform, resulting in faster detection times and reduced computational load.
 - **Robust GPS Integration**: Strengthened the integration with GPS modules to ensure precise location tracking upon construction zone detection, facilitating accurate reporting to the central server.
@@ -77,7 +77,7 @@ Construction Zone Detection and Notification System [] [Github-Link]()
 - **User-Friendly Alert System**: Improved the central server's alert dissemination mechanism to provide timely and clear notifications to nearby vehicles, aiding in effective route planning and congestion avoidance.
 - **Comprehensive Testing and Validation**: Conducted extensive field testing under various driving conditions to validate system performance, leading to iterative improvements and increased reliability in real-world scenarios.
 
-Vehicle Diagnostics Application [] [Github-Link]()
+Vehicle Diagnostics Application [] [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_QT_diagnotics.md)
 - **Enhanced Real-Time Data Processing**: Optimized the application's data handling to ensure seamless real-time updates of vehicle diagnostics, providing users with up-to-the-minute information on vehicle health.
 - **Advanced Data Visualization**: Implemented intuitive charts, graphs, and gauges to represent complex diagnostics data, enabling users to quickly grasp vehicle performance metrics and identify potential issues.
 - **Comprehensive Subsystem Monitoring**: Expanded the application's capabilities to monitor various vehicle subsystems, including engine, transmission, battery, and fuel system, offering users a holistic view of vehicle status.
