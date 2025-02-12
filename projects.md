@@ -33,6 +33,14 @@ Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](htt
 - **Streamlined OTA Update Process**: Enhanced the OTA update mechanism to support more reliable and faster firmware downloads over various wireless communication interfaces, improving the user experience and reducing downtime during updates.
 - **Improved Documentation and Developer Support**: Created comprehensive documentation detailing the bootloader's architecture, update procedures, and troubleshooting guidelines, aiding future development and facilitating easier maintenance.
 
+Vehicle Sensor Data Visualizer [C++, Qt Framework, Linux, Embedded Linux] [Githib-Link]()  
+- **Real-Time Multi-Sensor Data Integration**: Developed a robust system to simultaneously process and display data from various vehicle sensors, including LiDAR, cameras, and ultrasonic sensors, ensuring synchronized and accurate real-time visualization.
+- **Dynamic View Management**: Implemented a flexible interface allowing users to seamlessly switch between different sensor data views within a single window, enhancing user experience and situational awareness.
+- **Optimized Rendering Performance**: Enhanced the rendering pipeline to efficiently handle high-frequency data streams, resulting in smooth visualization of video frames, point clouds, and distance readings without latency.
+- **Advanced 3D Point Cloud Visualization**: Improved the rendering of LiDAR point clouds to provide detailed 3D representations of the vehicle's surroundings, aiding in better analysis and decision-making.
+- **User-Friendly Interface Design**: Designed an intuitive user interface that presents complex sensor data in an accessible manner, allowing users to easily interpret and interact with the information.
+- **Comprehensive Testing and Validation**: Conducted extensive testing with various sensor configurations and environmental conditions to ensure the application's reliability and robustness in real-world scenarios.
+
 **Sr Tech Developer (Tech Lead)** | Jun 2015 - Oct 2016 | *Verizon, Dallas
 
 Video QoS Benchmarking System [] [Github-Link]()
