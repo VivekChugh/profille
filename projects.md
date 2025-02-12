@@ -41,7 +41,7 @@ Over-The-Air (OTA) Enabled Bootloader [C, Memory mapping, ISR] [Github-Link](htt
 - **Streamlined OTA Update Process**: Enhanced the OTA update mechanism to support more reliable and faster firmware downloads over various wireless communication interfaces, improving the user experience and reducing downtime during updates.
 - **Improved Documentation and Developer Support**: Created comprehensive documentation detailing the bootloader's architecture, update procedures, and troubleshooting guidelines, aiding future development and facilitating easier maintenance.
 
-Vehicle Sensor Data Visualizer [C++, Qt Framework, Linux, Embedded Linux] [Githib-Link]()  
+Vehicle Sensor Data Visualizer for ADAS Framwork [C++, Qt Framework, ADAS, Linux, Embedded Linux] [Github-Link]()  
 - **Real-Time Multi-Sensor Data Integration**: Developed a robust system to simultaneously process and display data from various vehicle sensors, including LiDAR, cameras, and ultrasonic sensors, ensuring synchronized and accurate real-time visualization.
 - **Dynamic View Management**: Implemented a flexible interface allowing users to seamlessly switch between different sensor data views within a single window, enhancing user experience and situational awareness.
 - **Optimized Rendering Performance**: Enhanced the rendering pipeline to efficiently handle high-frequency data streams, resulting in smooth visualization of video frames, point clouds, and distance readings without latency.
