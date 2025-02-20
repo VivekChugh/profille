@@ -23,7 +23,7 @@ MQTT-Based ECU Communication System [Github-Link](https://github.com/VivekChugh/
 - **Enhanced System Scalability**: Refined the system architecture to support the addition of new ECUs and applications without significant reconfiguration, promoting scalability and ease of integration.
 - **Improved Fault Tolerance**: Integrated mechanisms for detecting and handling communication failures, ensuring system resilience and maintaining reliable operation under adverse conditions
 
-Autonomous Vehicle Mapping Application  [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_QT_mapping.md)  [ADAS, Localization, C++, QT]
+Autonomous Vehicle Mapping Application  [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_QT_mapping.md)  [ADAS, Localization, C++, QT Fw]
 - **Real-Time 3D Environment Reconstruction**: Developed and optimized algorithms to process sensor inputs from LiDAR, cameras, and GPS, enabling the application to construct accurate 3D models of the vehicle's surroundings in real-time.
 - **Advanced Landmark Detection and Extraction**: Implemented sophisticated techniques to identify and extract significant landmarks such as buildings, road signs, and trees from sensor data, enhancing the application's environmental awareness.
 - **Dynamic Map Updating**: Designed a system to compare detected landmarks with existing databases, allowing the application to dynamically update maps with new or altered landmarks, ensuring up-to-date navigation information.
@@ -49,9 +49,9 @@ Vehicle Sensor Data Visualizer for ADAS Framwork [Github-Link](https://github.co
 - **User-Friendly Interface Design**: Designed an intuitive user interface that presents complex sensor data in an accessible manner, allowing users to easily interpret and interact with the information.
 - **Comprehensive Testing and Validation**: Conducted extensive testing with various sensor configurations and environmental conditions to ensure the application's reliability and robustness in real-world scenarios.
 
-**Sr Tech Developer (Tech Lead)** | Jun 2015 - Oct 2016 | *Verizon, Dallas
+**Sr Tech Developer (Tech Lead)** | Jun 2015 - Oct 2016 | Verizon, Dallas
 
-Video QoS Benchmarking System [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_Video_QoS.md) []
+Video QoS Benchmarking System [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_Video_QoS.md) [C, C++, ]
 - **Real-Time Decoder Performance Monitoring**: Developed a system to continuously probe the video decoder every 10 seconds, capturing essential metrics such as the number of video frames processed and decode errors encountered, enabling immediate detection of performance issues. citeturn0search0
 - **Quality of Experience (QoE) Assessment**: Implemented algorithms to calculate the user's perceived quality of the video stream based on decoder performance metrics, providing valuable insights into the end-user experience.
 - **Efficient Data Collection and Analysis**: Designed the system to gather and analyze performance data with minimal overhead, ensuring that the monitoring process does not interfere with the normal operation of the Set-Top Box.
