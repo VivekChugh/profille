@@ -51,15 +51,15 @@ Vehicle Sensor Data Visualizer for ADAS Framwork [Github-Link](https://github.co
 
 **Sr Tech Developer (Tech Lead)** | Jun 2015 - Oct 2016 | Verizon, Dallas
 
-Video QoS Benchmarking System [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_Video_QoS.md) [C, C++, ]
-- **Real-Time Decoder Performance Monitoring**: Developed a system to continuously probe the video decoder every 10 seconds, capturing essential metrics such as the number of video frames processed and decode errors encountered, enabling immediate detection of performance issues. citeturn0search0
+Video QoS Benchmarking System [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_Video_QoS.md) [C, C++, H.264, Embedded Linux, Video Streaming]
+- **Real-Time Decoder Performance Monitoring**: Developed a system to continuously probe the video decoder every 10 seconds, capturing essential metrics such as the number of video frames processed and decode errors encountered, enabling immediate detection of performance issues. 
 - **Quality of Experience (QoE) Assessment**: Implemented algorithms to calculate the user's perceived quality of the video stream based on decoder performance metrics, providing valuable insights into the end-user experience.
 - **Efficient Data Collection and Analysis**: Designed the system to gather and analyze performance data with minimal overhead, ensuring that the monitoring process does not interfere with the normal operation of the Set-Top Box.
 - **Integration with Embedded Linux Platform**: Implemented the software in C and C++ on an embedded Linux platform, leveraging the platform's capabilities to achieve efficient and reliable performance monitoring.
 - **Proactive Error Detection and Reporting**: Established mechanisms to promptly identify and report decode errors, such as dropped or corrupted frames, facilitating timely interventions to maintain optimal video quality.
 - **User-Centric Performance Metrics**: Focused on metrics that directly impact the user's viewing experience, ensuring that the system provides relevant and actionable information for maintaining high-quality video playback.
 
-Video Streaming Server [Githib-Link](https://github.com/VivekChugh/profille/blob/main/project_Video_server.md) []  
+Video Streaming Server [Githib-Link](https://github.com/VivekChugh/profille/blob/main/project_Video_server.md) [C, C++, H.264, Linux, Video Streaming, HLS]  
 - **Implementation of Adaptive Bitrate Streaming**: Developed support for MPEG-DASH and HLS protocols, enabling the server to provide video streams in multiple quality levels. This allows clients to dynamically switch between streams based on their current bandwidth, ensuring a smooth viewing experience. 
 - **Efficient Content Segmentation**: Engineered the server to segment video content into smaller chunks, typically ranging from 2 to 10 seconds. This approach facilitates progressive fetching and buffering by clients, reducing latency and improving playback performance. 
 - **Dynamic Bitrate Adaptation**: Implemented mechanisms that allow the server to adjust streaming quality in real-time, responding to fluctuations in network conditions to maintain optimal video playback without interruptions. 
