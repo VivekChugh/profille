@@ -9,7 +9,7 @@ Experienced system design and video professional with 18 years of diverse experi
 **Sr Engineer L-8(Staff Engineer)** | Sep 2018 - Present | Ford Motors, Waterloo
 
  Connectivity Manager    [Github-link](https://github.com/VivekChugh/profille/blob/main/project_Networking_CM.md) [C, C++, AOSP, AIDL, Embedded Linux, IP-Networking ]
-- **Optimized network configuration performance** by reducing the time taken to set up IP rules, VLANs, and routing tables, improving initialization speed by [X]% (if measurable).  
+- **Optimized network configuration performance** by setting up IP rules, VLANs, and routing tables well with benchmarking parameters.
 - **Enhanced modularity and maintainability** by refactoring the codebase, introducing better abstraction layers for handling multiple network interfaces, making it easier to extend and debug. 
 - **Improved security compliance** by integrating dynamic firewall rule management using iptables/nftables, strengthening protection against unauthorized network access.  
 - **Streamlined development processes** by mentoring junior engineers, improving code review practices, and introducing best practices for C++ and Linux networking development.  
@@ -34,7 +34,7 @@ Autonomous Vehicle Mapping Application  [Github-Link](https://github.com/VivekCh
 **Sr Engineer** | Nov 2016 - Jul 2018 | Faraday Future, Los Angeles 
 
 Over-The-Air (OTA) Enabled Bootloader [Github-Link](https://github.com/VivekChugh/profille/blob/main/project_OTA_BL.md)  [C, Memory mapping, ISR]
-- **Enhanced Security Protocols**: Implemented advanced cryptographic checks, including SHA-256 hash verification and digital signature validation, to ensure the integrity and authenticity of firmware updates, significantly reducing the risk of unauthorized code execution.
+- **Enhanced Security Protocols**: Implemented advanced authenticity checks, including checksum verification and validation, to ensure the integrity and authenticity of firmware updates, significantly reducing the risk of corrupted or unauthorized code execution.
 - **Developed Fail-Safe Rollback Mechanism**: Designed and integrated a robust rollback feature that automatically reverts to the previous firmware version in case of update failures or corruption, preventing device bricking and ensuring continuous operation.
 - **Optimized Partition Management**: Improved the bootloader's partition management system to efficiently handle multiple firmware slots, facilitating seamless transitions between current and updated firmware versions during OTA updates.
 - **Reduced Bootloader Footprint**: Refactored low-level C code to minimize the bootloader's memory usage, achieving a more compact and efficient implementation suitable for resource-constrained embedded systems.
