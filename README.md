@@ -1,4 +1,4 @@
-Welcome to my profile. Following are the links to the projects I have worked on and the skills I have accmulated over time.
+Welcome to my profile. Following are the links to the projects I have worked on and some skills I have accmulated over time.
 
 <details>
 <summary> Skills </summary>
